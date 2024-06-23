@@ -1,0 +1,11 @@
+https://mui.com/    for ICONS, TABLE, DTATABLE
+
+https://recharts.org/en-US/api   for Charts
+
+installed SCSS for styling
+
+using react-router-dom for navigation psge
+
+using "react-circular-progressbar" library for showing product's  progress 
+
+ using x-data-grid library for datatable

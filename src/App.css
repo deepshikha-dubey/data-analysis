@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.count{
+  width: 15px;
+  height: 15px;
+  background-color: red;
+  border-radius: 50px;
+  color: white;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: bold;
+  position:relative ;
+  top: -8px;
+  right:28px;
+}
+.items{
+  display: flex;
+  align-items: center;
+  margin-right: 0px;
+  position: relative;
+}
